@@ -45,7 +45,7 @@
         "subjects3":{
             "name" : "Taxation",
             "description" : "Studying taxation allowed me to explore the intricacies of tax laws and regulations. Understanding how taxes impact individuals and businesses, and the strategies used for tax planning and compliance, was both challenging and rewarding.",
-            "photo" : "./public/tax.png"
+            "photo" : "./tax.png"
         }
     
 }
