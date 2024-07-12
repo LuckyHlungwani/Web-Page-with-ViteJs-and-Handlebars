@@ -1,0 +1,51 @@
+{
+    "user": {
+        "fullName": "Lucky Hlungwani",
+        "photo": "./lucky.png",
+        "back-image":""
+    },
+    "city": {
+        "city": "Favourite city",
+        "name": "Cape Town",
+        "photo": "./my city.jpg",
+        "description" : "Visiting Cape Town is amazing because it has beautiful nature, a long history, and a lively culture. It's located between Table Mountain and the Atlantic Ocean, offering stunning views and lots of things to do. Table Mountain is not just a pretty sight; you can hike there or take a cable car for great views of the city and coast. Cape Town has a history shaped by its past as a colony, seen in places like the Castle of Good Hope and the District Six Museum, which show how people endured apartheid. The city's culture is vibrant too, with places like Bo-Kaap famous for its colorful houses and Cape Malay traditions."
+    },
+    "foreignLanguage": {
+        "language": "Portuguese",
+        "description": "Learning a foreign language like Portuguese can be incredibly rewarding for several reasons. Firstly, it opens up doors to new cultures and perspectives. Language is deeply intertwined with culture, so by learning Portuguese, you not only gain access to a beautiful language but also to the rich history, literature, music, and traditions of Portuguese-speaking countries like Portugal, Brazil, and parts of Africa."
+    },
+    
+        "phrases": [
+            {
+                "englishPhrase": "How are you?",
+                "foreignLanguage": "Como vai?"
+            },
+            {
+                "englishPhrase": "I'm good and yourself",
+                "foreignLanguage": "Eu sou bom e você mesmo"
+            },
+            {
+                "englishPhrase": "How is you mom doing?",
+                "foreignLanguage": "Como está sua mãe?"
+            }
+        ],
+    
+    "subjects1":{
+            "title": "Favourite Subjects",
+            "name" : "Financial Accounting",
+            "description" : "I thoroughly enjoyed delving into the principles and practices of financial accounting. It provided a solid foundation in understanding how financial information is recorded, summarized, and communicated in business contexts.",
+            "photo" : "./Financial.jpg"
+        },
+
+       "subjects2": {
+            "name" : "Auditing & Internal Control",
+            "description" : "This subject combined the principles of auditing with the concepts of internal control. It fascinated me with its focus on assurance, compliance, and the design of effective control systems to manage risks and ensure organizational integrity.",
+            "photo" : "./auditing.jpg"
+        },
+        "subjects3":{
+            "name" : "Taxation",
+            "description" : "Studying taxation allowed me to explore the intricacies of tax laws and regulations. Understanding how taxes impact individuals and businesses, and the strategies used for tax planning and compliance, was both challenging and rewarding.",
+            "photo" : "./public/tax.png"
+        }
+    
+}
